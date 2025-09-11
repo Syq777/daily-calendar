@@ -1,2 +1,0 @@
-# daily-calendar
-daily-calendar
